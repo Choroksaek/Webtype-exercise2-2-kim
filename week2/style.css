@@ -1,0 +1,28 @@
+.container {
+width: 100%;
+display:flex;
+}
+
+<<<<<<< HEAD
+img {
+	display:inline-block;
+	max-width: 60vw;
+    max-height: 80vh;
+=======
+.img {
+	align-self: flex-start;
+	max-width: 40vw;
+>>>>>>> 9c7a4dd4ff2b457fe7a4dfa675c6de4857538c49
+    padding: 20px;
+	position: flex;
+}
+.text{
+	margin-right: 5vw;
+	flex: 1 1 auto;
+	font-size: 20px;
+	font-family: gimlet-text, serif;
+	font-weight: 500;
+	font-style: normal;
+    line-height: 1.4;
+    max-width: 60%;
+}
